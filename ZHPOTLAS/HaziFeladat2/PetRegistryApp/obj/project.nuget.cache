@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYkIcXfl7MY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\PetRegistryApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khassius\\.nuget\\packages\\idgen\\3.0.7\\idgen.3.0.7.nupkg.sha512",
+    "C:\\Users\\Khassius\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Khassius\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\view\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\dao\\petsadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\dao\\petsadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\dao\\categoriesadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\dao\\categoriesadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\view\\petregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\petregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\control\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\control\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\petregistryapp\\view\\petregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\petregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\dao\\petsmemorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\dao\\petsmemorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\control\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\control\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\dao\\ipets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\dao\\ipets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\model\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\model\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\view\\addormodifypet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\addormodifypet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\db\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\db\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\db\\pets.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\db\\pets.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\petregistryapp\\view\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\petregistryapp\\view\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\view\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\view\\petregistry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\petregistry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\dao\\icategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\dao\\icategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\dao\\categoriesmemorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\dao\\categoriesmemorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\petregistryapp\\view\\addormodifypet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\addormodifypet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|c:\\users\\khassius\\desktop\\zhpotlas\\hazifeladat2\\petregistryapp\\view\\addormodifypet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46E2C19-E41A-49FE-A2A5-BACED1C7366D}|PetRegistryApp\\PetRegistryApp.csproj|solutionrelative:petregistryapp\\view\\addormodifypet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesAdoDao.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\CategoriesAdoDao.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\DAO\\CategoriesAdoDao.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\CategoriesAdoDao.cs",
+              "RelativeToolTip": "PetRegistryApp\\DAO\\CategoriesAdoDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:24:42.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\PetRegistry.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\PetRegistry.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\PetRegistry.cs",
+              "RelativeToolTip": "PetRegistryApp\\View\\PetRegistry.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:12:16.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPets.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\IPets.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\DAO\\IPets.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\IPets.cs",
+              "RelativeToolTip": "PetRegistryApp\\DAO\\IPets.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:19:15.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetsAdoDao.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\PetsAdoDao.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\DAO\\PetsAdoDao.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\PetsAdoDao.cs",
+              "RelativeToolTip": "PetRegistryApp\\DAO\\PetsAdoDao.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwE8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:08:56.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddOrModifyPet.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddOrModifyPet.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\AddOrModifyPet.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddOrModifyPet.cs",
+              "RelativeToolTip": "PetRegistryApp\\View\\AddOrModifyPet.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:25:17.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetsMemoryDao.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\PetsMemoryDao.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\DAO\\PetsMemoryDao.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\PetsMemoryDao.cs",
+              "RelativeToolTip": "PetRegistryApp\\DAO\\PetsMemoryDao.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:51:49.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\Connection.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\Connection.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\Connection.cs",
+              "RelativeToolTip": "PetRegistryApp\\View\\Connection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:44:56.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\ConnectionManager.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\ConnectionManager.cs",
+              "RelativeToolTip": "PetRegistryApp\\ConnectionManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:02:47.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetRegistry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\PetRegistry.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\PetRegistry.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\PetRegistry.cs [Design]",
+              "RelativeToolTip": "PetRegistryApp\\View\\PetRegistry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:27:20.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Control\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\Control\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Control\\CategoriesController.cs",
+              "RelativeToolTip": "PetRegistryApp\\Control\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:32:44.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Model\\Pet.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\Model\\Pet.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Model\\Pet.cs",
+              "RelativeToolTip": "PetRegistryApp\\Model\\Pet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:36:38.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Control\\PetsController.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\Control\\PetsController.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Control\\PetsController.cs",
+              "RelativeToolTip": "PetRegistryApp\\Control\\PetsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:16:19.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "database.sql",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DB\\database.sql",
+              "RelativeDocumentMoniker": "PetRegistryApp\\DB\\database.sql",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DB\\database.sql",
+              "RelativeToolTip": "PetRegistryApp\\DB\\database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-18T16:01:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pets.db",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DB\\pets.db",
+              "RelativeDocumentMoniker": "PetRegistryApp\\DB\\pets.db",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DB\\pets.db",
+              "RelativeToolTip": "PetRegistryApp\\DB\\pets.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGGSURBVDhPY2SAgsry0vsMDP8VoFwsgPHBn38Mgd3d3RegAkDl//9DWSADSv7/\u002BvULJwbJNzXUvi8tLTWAagEDJihNFEhITBbg5ebYj2wI0QYICAgwTJ82heH79\u002B8CLEz/90OFEQDdC3uOnPm/69ApFDEYBqmFasN0wdXbDxh2HDzJ8O79B4a3794zrN9\u002BgOHc5RtQWUyAYQALExPDt2/fGUz0NBlMDbQYvn3/xsDCgtunGDJ//v5l\u002BP37F8Pff38Z/gHZf37/Zvjz5y9UFhNgGPDz508GUOI4cPQUw74jJxgYgZxTZ88DXfIDogANYBhgpKvBEObnxsDHw8XwF2jzsxdPGR49eczQ0TeR4cbN21BVCIDTc4FeLgyezjYMHz98ZGirKWf48O4dAwcHG1QWAXCHDhB8/QoMQKCK3KJSBlZWZpSUCwN4DVBXVWaoKMpnsLG0YOjtaGNQVMDMKngNAAFuLi6G8NBgKA8TEDSAEEDKzsXA7MyIJzsjg/8P2jt7FRkYGBgAmdPDqvBXzR4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-20T02:36:01.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddCategory.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\AddCategory.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddCategory.cs",
+              "RelativeToolTip": "PetRegistryApp\\View\\AddCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:56:04.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Program.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Program.cs",
+              "RelativeToolTip": "PetRegistryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:14:48.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PetRegistry.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\PetRegistry.Designer.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\PetRegistry.Designer.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\PetRegistry.Designer.cs",
+              "RelativeToolTip": "PetRegistryApp\\View\\PetRegistry.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwKsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:52:41.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategories.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\ICategories.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\DAO\\ICategories.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\ICategories.cs",
+              "RelativeToolTip": "PetRegistryApp\\DAO\\ICategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:54:42.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\Model\\Category.cs",
+              "RelativeToolTip": "PetRegistryApp\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:53:00.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoriesMemoryDao.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\CategoriesMemoryDao.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\DAO\\CategoriesMemoryDao.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\DAO\\CategoriesMemoryDao.cs",
+              "RelativeToolTip": "PetRegistryApp\\DAO\\CategoriesMemoryDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:21:49.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddOrModifyPet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddOrModifyPet.Designer.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\AddOrModifyPet.Designer.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddOrModifyPet.Designer.cs",
+              "RelativeToolTip": "PetRegistryApp\\View\\AddOrModifyPet.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:40:37.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Connection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\Connection.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\Connection.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\Connection.cs [Design]",
+              "RelativeToolTip": "PetRegistryApp\\View\\Connection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:34:52.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddCategory.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\AddCategory.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddCategory.cs [Design]",
+              "RelativeToolTip": "PetRegistryApp\\View\\AddCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:09:18.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddOrModifyPet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddOrModifyPet.cs",
+              "RelativeDocumentMoniker": "PetRegistryApp\\View\\AddOrModifyPet.cs",
+              "ToolTip": "C:\\Users\\Khassius\\Desktop\\ZHPOTLAS\\HaziFeladat2\\PetRegistryApp\\View\\AddOrModifyPet.cs [Design]",
+              "RelativeToolTip": "PetRegistryApp\\View\\AddOrModifyPet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:55:08.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
